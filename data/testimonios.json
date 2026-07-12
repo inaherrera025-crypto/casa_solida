@@ -1,0 +1,5 @@
+[
+  { "nombre": "Marta Gómez", "ciudad": "Valle del Sol", "calificacion": 5, "foto": "img/placeholder-team.svg", "comentario": "El proceso fue transparente de principio a fin. Nuestra casa se entregó en el tiempo prometido y con acabados impecables." },
+  { "nombre": "Andrés Rojas", "ciudad": "Loma Alta", "calificacion": 5, "foto": "img/placeholder-team.svg", "comentario": "Buscábamos algo firme y duradero, y eso fue exactamente lo que Casa Sólida nos entregó. Excelente asesoría financiera." },
+  { "nombre": "Paola Herrera", "ciudad": "El Roble", "calificacion": 4, "foto": "img/placeholder-team.svg", "comentario": "Muy conformes con la ampliación de nuestra vivienda. El equipo fue puntual y muy profesional en cada visita." }
+]

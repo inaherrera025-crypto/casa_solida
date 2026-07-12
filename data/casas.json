@@ -1,0 +1,68 @@
+[
+  {
+    "codigo": "CS-101",
+    "nombre": "Modelo Roble",
+    "tipo": "Unifamiliar",
+    "area": 68,
+    "habitaciones": 2,
+    "banos": 1,
+    "precio": 42000000,
+    "imagen": "img/placeholder-house.svg",
+    "descripcion": "Casa prefabricada compacta ideal para parejas o familias pequeñas, con acabados modernos y excelente aislamiento térmico."
+  },
+  {
+    "codigo": "CS-102",
+    "nombre": "Modelo Cedro",
+    "tipo": "Unifamiliar",
+    "area": 95,
+    "habitaciones": 3,
+    "banos": 2,
+    "precio": 61000000,
+    "imagen": "img/placeholder-house.svg",
+    "descripcion": "Diseño de tres habitaciones con sala-comedor integrada y amplios ventanales que aprovechan la luz natural."
+  },
+  {
+    "codigo": "CS-103",
+    "nombre": "Modelo Nogal",
+    "tipo": "Dos plantas",
+    "area": 140,
+    "habitaciones": 4,
+    "banos": 3,
+    "precio": 98000000,
+    "imagen": "img/placeholder-house.svg",
+    "descripcion": "Vivienda de dos plantas pensada para familias grandes, con estudio, balcón y garaje doble."
+  },
+  {
+    "codigo": "CS-104",
+    "nombre": "Modelo Pino",
+    "tipo": "Unifamiliar",
+    "area": 80,
+    "habitaciones": 3,
+    "banos": 2,
+    "precio": 54000000,
+    "imagen": "img/placeholder-house.svg",
+    "descripcion": "Equilibrio entre espacio y presupuesto, con cocina abierta y patio trasero techado."
+  },
+  {
+    "codigo": "CS-105",
+    "nombre": "Modelo Caoba",
+    "tipo": "Dos plantas",
+    "area": 165,
+    "habitaciones": 4,
+    "banos": 3,
+    "precio": 112000000,
+    "imagen": "img/placeholder-house.svg",
+    "descripcion": "Nuestro modelo insignia: acabados premium, doble altura en sala y terraza panorámica."
+  },
+  {
+    "codigo": "CS-106",
+    "nombre": "Modelo Sauce",
+    "tipo": "Unifamiliar",
+    "area": 55,
+    "habitaciones": 1,
+    "banos": 1,
+    "precio": 31000000,
+    "imagen": "img/placeholder-house.svg",
+    "descripcion": "Nuestra opción más accesible, perfecta como primera vivienda o casa de descanso."
+  }
+]

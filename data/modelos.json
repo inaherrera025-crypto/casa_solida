@@ -1,0 +1,6 @@
+[
+  { "nombre": "Roble", "area": 68, "habitaciones": 2, "banos": 1, "precio": 42000000, "imagen": "img/placeholder-house.svg", "caracteristicas": ["Aislamiento térmico", "Estructura antisísmica", "Entrega en 45 días"] },
+  { "nombre": "Cedro", "area": 95, "habitaciones": 3, "banos": 2, "precio": 61000000, "imagen": "img/placeholder-house.svg", "caracteristicas": ["Sala-comedor integrada", "Ventanales de piso a techo", "Entrega en 60 días"] },
+  { "nombre": "Nogal", "area": 140, "habitaciones": 4, "banos": 3, "precio": 98000000, "imagen": "img/placeholder-house.svg", "caracteristicas": ["Dos plantas", "Estudio y balcón", "Garaje doble"] },
+  { "nombre": "Caoba", "area": 165, "habitaciones": 4, "banos": 3, "precio": 112000000, "imagen": "img/placeholder-house.svg", "caracteristicas": ["Doble altura en sala", "Terraza panorámica", "Acabados premium"] }
+]

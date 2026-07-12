@@ -1,0 +1,10 @@
+[
+  { "icono": "bi-pencil-ruler", "titulo": "Diseño personalizado", "descripcion": "Planos a la medida de tu terreno, tu familia y tu presupuesto, con acompañamiento de arquitectos." },
+  { "icono": "bi-building", "titulo": "Construcción", "descripcion": "Ejecución de obra con materiales certificados y supervisión constante en cada etapa." },
+  { "icono": "bi-house-door", "titulo": "Casas prefabricadas", "descripcion": "Sistemas modulares de alta resistencia, con tiempos de entrega hasta 3 veces más rápidos." },
+  { "icono": "bi-arrows-angle-expand", "titulo": "Ampliaciones", "descripcion": "Suma metros cuadrados y valor a tu propiedad sin comprometer la estructura existente." },
+  { "icono": "bi-hammer", "titulo": "Remodelaciones", "descripcion": "Renovamos espacios existentes con estándares de calidad y diseño actual." },
+  { "icono": "bi-chat-square-text", "titulo": "Asesoría", "descripcion": "Te guiamos en financiamiento, normativa y elección del modelo ideal, sin compromiso." },
+  { "icono": "bi-tools", "titulo": "Instalación", "descripcion": "Montaje profesional de estructuras prefabricadas con equipo especializado." },
+  { "icono": "bi-shield-check", "titulo": "Mantenimiento", "descripcion": "Planes preventivos y correctivos para que tu casa se mantenga sólida por generaciones." }
+]

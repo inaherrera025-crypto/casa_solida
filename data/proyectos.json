@@ -1,0 +1,5 @@
+[
+  { "titulo": "Residencial Los Almendros", "ubicacion": "Valle del Sol", "fecha": "2026-02", "cliente": "Familia Ramírez", "imagen": "img/placeholder-house.svg", "descripcion": "Conjunto de 12 viviendas modelo Cedro entregado en tiempo récord." },
+  { "titulo": "Casa Mirador Norte", "ubicacion": "Loma Alta", "fecha": "2025-11", "cliente": "Familia Torres", "imagen": "img/placeholder-house.svg", "descripcion": "Vivienda modelo Caoba con vista panorámica y terraza ampliada." },
+  { "titulo": "Villas del Bosque", "ubicacion": "Sector El Roble", "fecha": "2025-08", "cliente": "Inversiones Bosque S.A.", "imagen": "img/placeholder-house.svg", "descripcion": "Desarrollo de 8 casas modelo Nogal con áreas comunes y parque infantil." }
+]
